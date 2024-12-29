@@ -44,8 +44,8 @@
 </p>
 
 - 🌐 **Languages Known:** C, C++, Python, Java, JavaScript, HTML, CSS, Kotlin, SQL.  
-- 🔥 **Total Commits Made:** 1234+ (Update with the actual number of commits).
 
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pyro-warrior-1884&show_icons=true&locale=en&layout=compact" alt="pyro-warrior-1884" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pyro-warrior-1884&show_icons=true&locale=en" alt="pyro-warrior-1884" /></p>

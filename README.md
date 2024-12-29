@@ -48,7 +48,5 @@
 <br>
 <p>- 🌐 <b>Languages Known:</b> C, C++, Python, Java, JavaScript, HTML, CSS, Kotlin, SQL.</p>  
 
-<br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pyro-warrior-1884&show_icons=true&locale=en&layout=compact" alt="pyro-warrior-1884" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pyro-warrior-1884&show_icons=true&locale=en" alt="pyro-warrior-1884" /></p>

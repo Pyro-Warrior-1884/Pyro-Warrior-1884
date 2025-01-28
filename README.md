@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Albert Augustine, <br>Currecntly i am a B.Tech 3rd Year Student aspiring to become a full stack wewb developer<br>and I have built a diverse collection of repositories, each focused on unique content. These include small projects, coding challenges, and problem-solving solutions. Additionally, I have created dedicated repositories to showcase some of my key projects, highlighting the work I’m most proud of. My repositories reflect a broad range of interests and skills, with a focus on continuous learning and growth.</p>
+<p align="left">My name is Albert Augustine, <br>Currecntly i am a B.Tech 3rd Year Student aspiring to become a full stack web developer<br>and I have built a diverse collection of repositories, each focused on unique content. These include small projects, coding challenges, and problem-solving solutions. Additionally, I have created dedicated repositories to showcase some of my key projects, highlighting the work I’m most proud of. My repositories reflect a broad range of interests and skills, with a focus on continuous learning and growth.</p>
 
 ###
 

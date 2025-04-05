@@ -26,10 +26,10 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 
 <h2 align="left">🛠️ Connect & Tech Stack</h2>
 
-<div align="center">
+
 
   <!-- Socials -->
-  <div align="center" style="display: inline-block; margin-right: 50px;">
+  <div>
     <b>🌍 Socials</b><br><br>
     <a href="https://www.linkedin.com/in/albertaugustine1884/" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
@@ -49,7 +49,7 @@ My repositories reflect a broad range of interests and skills, with a focus on c
   </div>
 
   <!-- Tech Stack -->
-  <div align="center" style="display: inline-block;">
+  <span>
     <b>⚙️ Tech Stack</b><br><br>
     <a href="https://www.cprogramming.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
@@ -81,9 +81,9 @@ My repositories reflect a broad range of interests and skills, with a focus on c
     <a href="https://reactjs.org/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
     </a>
-  </div>
+  </span>
 
-</div>
+</p>
 <br>
 
 ---

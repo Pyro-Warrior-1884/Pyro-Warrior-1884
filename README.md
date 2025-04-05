@@ -6,12 +6,15 @@ My name is Albert Augustine,<br>Currently I am a B.Tech 3rd Year Student.<br> As
 </div>
 
 <br/>
+<div>
 ## 🌐 Socials:
 <a href="https://instagram.com/albert_augustine_yaknow"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
 <a href="https://linkedin.com/in/albertaugustine1884"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
 <a href="mailto:albertaugustine1884@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</div>
 
 <br/>
+<div>
 # 💻 Tech Stack:
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" />
@@ -26,21 +29,27 @@ My name is Albert Augustine,<br>Currently I am a B.Tech 3rd Year Student.<br> As
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=plastic&logo=appwrite&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" />
+</div>
 
 <br/>
+<div>
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=Pyro-Warrior-1884&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /><br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=Pyro-Warrior-1884&theme=tokyonight&hide_border=false" /><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyro-Warrior-1884&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
 <br/>
+<div>
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
 <br/>
+<div>
 ### 🔝 Top Contributed Repo
 <img src="https://github-contributor-stats.vercel.app/api?username=Pyro-Warrior-1884&limit=5&theme=vue-dark&combine_all_yearly_contributions=true" />
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>

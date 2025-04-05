@@ -24,47 +24,63 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 
 ---
 
-## 🛠️ Connect & Tech Stack
+<h2 align="center">🛠️ Connect & Tech Stack</h2>
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+<div align="center">
 
-  <!-- 🌍 Socials -->
-  <div>
+  <!-- Socials -->
+  <div style="display: inline-block; vertical-align: top; text-align: center; margin-right: 40px;">
     <h3>🌍 Socials</h3>
-    <p align="center">
-      <a href="https://www.linkedin.com/in/albertaugustine1884/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
-      </a>
-      <a href="mailto:albertaugustine1884@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" />
-      </a>
-      <a href="https://www.instagram.com/albert_augustine_yaknow/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" />
-      </a>
-      <a href="https://www.hackerrank.com/profile/PyroWarrior1884" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="40" />
-      </a>
-      <a href="https://leetcode.com/u/albert_augustine/" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" width="40" />
-      </a>
-    </p>
+    <a href="https://www.linkedin.com/in/albertaugustine1884/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
+    </a><br/>
+    <a href="mailto:albertaugustine1884@gmail.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" />
+    </a><br/>
+    <a href="https://www.instagram.com/albert_augustine_yaknow/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" />
+    </a><br/>
+    <a href="https://www.hackerrank.com/profile/PyroWarrior1884" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="40" />
+    </a><br/>
+    <a href="https://leetcode.com/u/albert_augustine/" target="_blank">
+      <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" width="40" />
+    </a>
   </div>
 
-  <!-- ⚙️ Tech Stack -->
-  <div>
+  <!-- Tech Stack -->
+  <div style="display: inline-block; vertical-align: top; text-align: center;">
     <h3>⚙️ Tech Stack</h3>
-    <p align="center">
-      <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" /></a>
-      <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" /></a>
-      <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" /></a>
-      <a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" /></a>
-      <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" /></a>
-      <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /></a>
-      <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" /></a>
-      <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /></a>
-      <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" /></a>
-    </p>
+    <a href="https://www.cprogramming.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+    </a>
+    <a href="https://golang.org" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" />
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+    </a>
+    <a href="https://www.java.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
+    </a>
+    <a href="https://www.python.org" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+    </a>
+    <a href="https://reactjs.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
+    </a>
   </div>
 
 </div>

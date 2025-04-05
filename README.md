@@ -29,9 +29,27 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 
 ## 🌐 Socials
 
-<a href="https://instagram.com/albert_augustine_yaknow"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-<a href="https://linkedin.com/in/albertaugustine1884"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-<a href="mailto:albertaugustine1884@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/albertaugustine1884/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="albertaugustine1884@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/albert_augustine_yaknow/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/PyroWarrior1884" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+  <a href="https://leetcode.com/u/albert_augustine/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" width="52" height="40" alt="leetcode logo"  />
+  </a>
+</div>
+
+###
 
 <br><br>
 
@@ -90,7 +108,11 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 <br><br>
 
 ---
+###
 
+<img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/output/snake.svg" alt="Snake animation" />
+
+###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>

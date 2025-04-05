@@ -26,7 +26,7 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 
 <h2 align="left">🛠️ Connect & Tech Stack</h2>
 
-<p align="center">
+
 
   <!-- Socials -->
   <span>

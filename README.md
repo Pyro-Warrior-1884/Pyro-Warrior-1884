@@ -10,6 +10,8 @@
 
 <div align="left">
 
+<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVzMDNjNWV6c2NvZXo4cTU3enpzM3R3MGJ0Z3ZhcmplaWVtbzc2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" />
+
 My name is **Albert Augustine**,<br>
 Currently I am a **B.Tech 3rd Year Student**.<br>
 Aspiring to become a **Full Stack Web Developer**.<br>
@@ -18,6 +20,7 @@ Additionally, I have created dedicated repositories to showcase some of my key p
 My repositories reflect a broad range of interests and skills, with a focus on continuous learning and growth.
 
 </div>
+
 <br>
 
 ---
@@ -107,11 +110,13 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 <br>
 
 ---
+
 ###
 
 <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/output/snake.svg" alt="Snake animation" />
 
 ###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>

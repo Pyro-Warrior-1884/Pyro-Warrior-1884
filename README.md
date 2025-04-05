@@ -25,12 +25,12 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 
 ## 🛠️ Connect & Tech Stack
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
+<div style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap; width: 100%;">
 
-  <!-- Socials -->
-  <div>
-    <h3 align="center">🌐 Socials</h3>
-    <div align="center">
+  <!-- Socials (50%) -->
+  <div style="width: 50%; text-align: center;">
+    <h3>🌐 Socials</h3>
+    <div>
       <a href="https://www.linkedin.com/in/albertaugustine1884/" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
       </a>
@@ -49,10 +49,10 @@ My repositories reflect a broad range of interests and skills, with a focus on c
     </div>
   </div>
 
-  <!-- Tech Stack -->
-  <div>
-    <h3 align="center">💻 Tech Stack</h3>
-    <div align="center">
+  <!-- Tech Stack (50%) -->
+  <div style="width: 50%; text-align: center;">
+    <h3>💻 Tech Stack</h3>
+    <div>
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" />
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" />
@@ -70,7 +70,6 @@ My repositories reflect a broad range of interests and skills, with a focus on c
   </div>
 
 </div>
-
 
 ---
 

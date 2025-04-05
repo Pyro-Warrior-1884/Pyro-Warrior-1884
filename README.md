@@ -81,6 +81,7 @@ My repositories reflect a broad range of interests and skills, with a focus on c
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyro-Warrior-1884&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 <br>
+
 ---
 
 ## ✍️ Random Dev Quote
@@ -89,6 +90,7 @@ My repositories reflect a broad range of interests and skills, with a focus on c
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 <br>
+
 ---
 
 ## 🔝 Top Contributed Repo
@@ -97,6 +99,7 @@ My repositories reflect a broad range of interests and skills, with a focus on c
   <img src="https://github-contributor-stats.vercel.app/api?username=Pyro-Warrior-1884&limit=5&theme=vue-dark&combine_all_yearly_contributions=true" />
 </div>
 <br>
+
 ---
 
 <div align="center">

@@ -25,11 +25,8 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 ---
 
 <h2 align="left">🛠️ Connect & Tech Stack</h2>
-
-
-
   <!-- Socials -->
-  <div>
+  <span>
     <b>🌍 Socials</b><br><br>
     <a href="https://www.linkedin.com/in/albertaugustine1884/" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
@@ -46,7 +43,8 @@ My repositories reflect a broad range of interests and skills, with a focus on c
     <a href="https://leetcode.com/u/albert_augustine/" target="_blank">
       <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" width="40" />
     </a>
-  </div>
+  </span>
+  <br>
 
   <!-- Tech Stack -->
   <span>

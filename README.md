@@ -30,7 +30,7 @@ My repositories reflect a broad range of interests and skills, with a focus on c
   <!-- Socials (50%) -->
   <div style="width: 50%; text-align: center;">
     <h3>🌐 Socials</h3>
-    <div>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
       <a href="https://www.linkedin.com/in/albertaugustine1884/" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
       </a>
@@ -52,7 +52,7 @@ My repositories reflect a broad range of interests and skills, with a focus on c
   <!-- Tech Stack (50%) -->
   <div style="width: 50%; text-align: center;">
     <h3>💻 Tech Stack</h3>
-    <div>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" />
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" />
@@ -70,6 +70,7 @@ My repositories reflect a broad range of interests and skills, with a focus on c
   </div>
 
 </div>
+
 
 ---
 

@@ -18,13 +18,7 @@ Additionally, I have created dedicated repositories to showcase some of my key p
 My repositories reflect a broad range of interests and skills, with a focus on continuous learning and growth.
 
 </div>
-###
-
-<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVzMDNjNWV6c2NvZXo4cTU3enpzM3R3MGJ0Z3ZhcmplaWVtbzc2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"  />
-
-###
-
-<br><br>
+<br>
 
 ---
 
@@ -56,7 +50,7 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 
 ###
 
-<br><br>
+<br>
 
 ---
 
@@ -78,7 +72,7 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 <img src="https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=plastic&logo=appwrite&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" />
 
-<br><br>
+<br>
 
 ---
 
@@ -90,7 +84,7 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 <img src="https://nirzak-streak-stats.vercel.app/?user=Pyro-Warrior-1884&theme=tokyonight&hide_border=false" /><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyro-Warrior-1884&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
-<br><br>
+<br>
 
 ---
 
@@ -100,7 +94,7 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-<br><br>
+<br>
 
 ---
 
@@ -110,7 +104,7 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 
 <img src="https://github-contributor-stats.vercel.app/api?username=Pyro-Warrior-1884&limit=5&theme=vue-dark&combine_all_yearly_contributions=true" />
 
-<br><br>
+<br>
 
 ---
 ###

@@ -29,7 +29,7 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 <div align="center">
 
   <!-- Socials -->
-  <div style="display: inline-block; vertical-align: top; text-align: center;">
+  <div style="display: inline-block; text-align: center;">
     <h3>🌍 Socials</h3>
     <a href="https://www.linkedin.com/in/albertaugustine1884/" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
@@ -49,7 +49,7 @@ My repositories reflect a broad range of interests and skills, with a focus on c
   </div>
 
   <!-- Tech Stack -->
-  <div style="display: inline-block; vertical-align: top; text-align: center;">
+  <div style="display: inline-block; text-align: center;">
     <h3>⚙️ Tech Stack</h3>
     <a href="https://www.cprogramming.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />

@@ -6,7 +6,7 @@
 
 <br>
 
-## 💫 About Me:
+## ✨ About Me:
 
 <div align="left">
 
@@ -25,9 +25,8 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 ---
 
 ## 🛠️ Connect & Tech Stack
-<!-- 🌐 Socials -->
 <div align="center">
-  <h3>🌐 Socials</h3>
+  <h3>🌍 Socials</h3>
   <p>
     <a href="https://www.linkedin.com/in/albertaugustine1884/" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
@@ -50,9 +49,8 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 <!-- Spacer -->
 <div style="height: 10px;"></div>
 
-<!-- 💻 Tech Stack -->
 <div align="center">
-  <h3>💻 Tech Stack</h3>
+  <h3>⚙️ Tech Stack</h3>
   <p>
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" />
@@ -84,7 +82,7 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 
 ---
 
-## ✍️ Random Dev Quote
+## ✍ Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -102,6 +100,7 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 
 ---
 
+## 📖 Commit History
 <div align="center">
   <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/output/snake.svg" alt="Snake animation" />
 </div>

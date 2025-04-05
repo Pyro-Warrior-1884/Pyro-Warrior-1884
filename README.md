@@ -26,12 +26,11 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 
 <h2 align="left">🛠️ Connect & Tech Stack</h2>
 
-<div align="center">
+<p align="center">
 
-  <!-- Container for both columns -->
-  <div style="display: inline-block; text-align: center; width: 45%; vertical-align: top; margin-right: 5%;">
-
-    <h3>🌍 Socials</h3>
+  <!-- Socials -->
+  <span>
+    <b>🌍 Socials</b><br><br>
     <a href="https://www.linkedin.com/in/albertaugustine1884/" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
     </a>
@@ -47,12 +46,13 @@ My repositories reflect a broad range of interests and skills, with a focus on c
     <a href="https://leetcode.com/u/albert_augustine/" target="_blank">
       <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" width="40" />
     </a>
+  </span>
 
-  </div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <div style="display: inline-block; text-align: center; width: 45%; vertical-align: top;">
-
-    <h3>⚙️ Tech Stack</h3>
+  <!-- Tech Stack -->
+  <span>
+    <b>⚙️ Tech Stack</b><br><br>
     <a href="https://www.cprogramming.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
     </a>
@@ -83,11 +83,9 @@ My repositories reflect a broad range of interests and skills, with a focus on c
     <a href="https://reactjs.org/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
     </a>
+  </span>
 
-  </div>
-
-</div>
-
+</p>
 <br>
 
 ---

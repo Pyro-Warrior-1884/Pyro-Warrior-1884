@@ -4,6 +4,8 @@
 
 </div>
 
+<br>
+
 ## 💫 About Me:
 
 <div align="left">
@@ -17,21 +19,27 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 
 </div>
 
+<br><br>
+
+---
+
 <br>
 
 <div align="center">
 
----
-
-## 🌐 Socials:
+## 🌐 Socials
 
 <a href="https://instagram.com/albert_augustine_yaknow"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
 <a href="https://linkedin.com/in/albertaugustine1884"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
 <a href="mailto:albertaugustine1884@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 
+<br><br>
+
 ---
 
-## 💻 Tech Stack:
+<br>
+
+## 💻 Tech Stack
 
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" />
@@ -47,25 +55,39 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 <img src="https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=plastic&logo=appwrite&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" />
 
+<br><br>
+
 ---
 
-## 📊 GitHub Stats:
+<br>
+
+## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Pyro-Warrior-1884&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /><br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=Pyro-Warrior-1884&theme=tokyonight&hide_border=false" /><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyro-Warrior-1884&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
+<br><br>
+
 ---
+
+<br>
 
 ## ✍️ Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
+<br><br>
+
 ---
+
+<br>
 
 ## 🔝 Top Contributed Repo
 
 <img src="https://github-contributor-stats.vercel.app/api?username=Pyro-Warrior-1884&limit=5&theme=vue-dark&combine_all_yearly_contributions=true" />
+
+<br><br>
 
 ---
 

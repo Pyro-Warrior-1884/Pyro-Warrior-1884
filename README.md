@@ -17,13 +17,12 @@ I have built a diverse collection of repositories, each focused on unique conten
 Additionally, I have created dedicated repositories to showcase some of my key projects, highlighting the work I’m most proud of.<br>
 My repositories reflect a broad range of interests and skills, with a focus on continuous learning and growth.
 
+</div>
 ###
 
 <img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVzMDNjNWV6c2NvZXo4cTU3enpzM3R3MGJ0Z3ZhcmplaWVtbzc2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"  />
 
 ###
-
-</div>
 
 <br><br>
 

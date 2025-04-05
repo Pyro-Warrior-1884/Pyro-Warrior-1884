@@ -60,10 +60,11 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pyro-Warrior-1884&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Pyro-Warrior-1884&theme=tokyonight&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyro-Warrior-1884&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pyro-Warrior-1884&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Pyro-Warrior-1884&theme=tokyonight&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyro-Warrior-1884&theme=tokyonight&hide_border=false&layout=compact" />
 </div>
+
 <br>
 
 ---

@@ -1,7 +1,9 @@
 <div align="center">
 
 # 💫 About Me:
+<div align="left">
 My name is Albert Augustine,<br>Currently I am a B.Tech 3rd Year Student.<br> Aspiring to become a Full Stack Web Developer<br>and I have built a diverse collection of repositories, each focused on unique content. These include small projects, coding challenges, and problem-solving solutions. <br>Additionally, I have created dedicated repositories to showcase some of my key projects, highlighting the work I’m most proud of. My repositories reflect a broad range of interests and skills, with a focus on continuous learning and growth.
+</div>
 
 ## 🌐 Socials:
 <a href="https://instagram.com/albert_augustine_yaknow"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>

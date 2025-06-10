@@ -13,7 +13,7 @@
 <img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVzMDNjNWV6c2NvZXo4cTU3enpzM3R3MGJ0Z3ZhcmplaWVtbzc2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" />
 
 My name is **Albert Augustine**,<br>
-Currently I am a **B.Tech 3rd Year Student**.<br>
+Currently I am a **B.Tech Final Year Student**.<br>
 Aspiring to become a **Full Stack Web Developer**.<br>
 I have built a diverse collection of repositories, each focused on unique content. These include small projects, coding challenges, and problem-solving solutions.<br>
 Additionally, I have created dedicated repositories to showcase some of my key projects, highlighting the work I’m most proud of.<br>

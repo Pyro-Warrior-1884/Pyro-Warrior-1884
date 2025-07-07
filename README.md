@@ -7,6 +7,7 @@ Additionally, I have created dedicated repositories to showcase some of my key p
 My repositories reflect a broad range of interests and skills, with a focus on continuous learning and growth.  
 
 </br>
+
 ---
 <div align="center">
 
@@ -15,6 +16,7 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 <a href="mailto:albertaugustine1884@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 
 </br>
+
 ---
 
 # 💻 Tech Stack:
@@ -41,6 +43,7 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 
 </br>
+
 ---
 
 # 📊 GitHub Stats:
@@ -51,6 +54,7 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyro-Warrior-1884&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 
 </br>
+
 ---
 
 ### ✍️ Random Dev Quote

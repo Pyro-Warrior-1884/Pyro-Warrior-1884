@@ -6,9 +6,9 @@ I have built a diverse collection of repositories, each focused on unique conten
 Additionally, I have created dedicated repositories to showcase some of my key projects, highlighting the work I’m most proud of.  
 My repositories reflect a broad range of interests and skills, with a focus on continuous learning and growth.  
 
----
-
 <br/>
+
+---
 
 <div align="center">
 
@@ -22,9 +22,9 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 
 </div>
 
----
-
 <br/><br/>
+
+---
 
 <div align="center">
 
@@ -53,9 +53,9 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 
 </div>
 
----
-
 <br/><br/>
+
+---
 
 <div align="center">
 
@@ -68,9 +68,9 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 
 </div>
 
----
-
 <br/><br/>
+
+---
 
 <div align="center">
 
@@ -79,9 +79,9 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 
 </div>
 
----
-
 <br/><br/>
+
+---
 
 <div align="center">
 
@@ -90,9 +90,9 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 
 </div>
 
----
-
 <br/><br/>
+
+---
 
 <div align="center">
 

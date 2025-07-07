@@ -6,20 +6,29 @@ I have built a diverse collection of repositories, each focused on unique conten
 Additionally, I have created dedicated repositories to showcase some of my key projects, highlighting the work I’m most proud of.  
 My repositories reflect a broad range of interests and skills, with a focus on continuous learning and growth.  
 
-</br>
-
 ---
+
+<br/>
+
 <div align="center">
 
-## 🌐 Socials:
-<a href="https://www.linkedin.com/in/albertaugustine1884/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-<a href="mailto:albertaugustine1884@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+## 🌐 Socials
+<a href="https://www.linkedin.com/in/albertaugustine1884/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:albertaugustine1884@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+</a>
 
-</br>
+</div>
 
 ---
 
-# 💻 Tech Stack:
+<br/><br/>
+
+<div align="center">
+
+# 💻 Tech Stack
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -42,30 +51,50 @@ My repositories reflect a broad range of interests and skills, with a focus on c
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 
-</br>
+</div>
 
 ---
 
-# 📊 GitHub Stats:
+<br/><br/>
+
+<div align="center">
+
+# 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Pyro-Warrior-1884&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" />
-<br/>
+<br/><br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=Pyro-Warrior-1884&theme=tokyonight&hide_border=true" />
-<br/>
+<br/><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyro-Warrior-1884&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 
-</br>
+</div>
 
 ---
+
+<br/><br/>
+
+<div align="center">
 
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
+</div>
+
 ---
+
+<br/><br/>
+
+<div align="center">
 
 ### 🔝 Top Contributed Repo
 <img src="https://github-contributor-stats.vercel.app/api?username=Pyro-Warrior-1884&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 
+</div>
+
 ---
+
+<br/><br/>
+
+<div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=Pyro-Warrior-1884&icon=2&color=0)](https://visitcount.itsvg.in)
 

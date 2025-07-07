@@ -1,5 +1,3 @@
-<div align="center">
-
 # 💫 About Me:
 My name is Albert Augustine  
 Currently I am a B.Tech Final Year Student.  
@@ -9,7 +7,7 @@ Additionally, I have created dedicated repositories to showcase some of my key p
 My repositories reflect a broad range of interests and skills, with a focus on continuous learning and growth.  
 
 ---
-
+<div align="center">
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/albertaugustine1884/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
 <a href="mailto:albertaugustine1884@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>

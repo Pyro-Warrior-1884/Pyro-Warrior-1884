@@ -98,7 +98,14 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 
 <div align="center">
 
-![snake animation](https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/output/github-contribution-grid-snake.svg)
+<figure>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="output/github-contribution-grid-snake.svg" />
+  </picture>
+</figure>
+
 
 </div>
 

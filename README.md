@@ -58,8 +58,6 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 <div align="center">
 
 ### ✍️ Random Dev Quote
-</div>
-<div align="left">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>

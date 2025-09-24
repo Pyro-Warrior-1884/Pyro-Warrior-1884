@@ -65,8 +65,6 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 <div align="center">
 
 ### 🔝 Top Contributed Repo
-</div>
-<div align="left">
 
 ![](https://github-contributor-stats.vercel.app/api?username=Pyro-Warrior-1884&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 </div>

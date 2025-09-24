@@ -98,7 +98,7 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 
 <div align="center">
 
-![snake animation](https://raw.githubusercontent.com/YourUserName/YourUserName/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/output/github-contribution-grid-snake.svg)
 
 </div>
 

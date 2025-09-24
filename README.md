@@ -39,11 +39,20 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 
 # 📊 GitHub Stats:
 </div>
+
 <div align="left">
 
-![](https://github-readme-stats.vercel.app/api?username=Pyro-Warrior-1884&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Pyro-Warrior-1884&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyro-Warrior-1884&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- First two blocks side by side -->
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pyro-Warrior-1884&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" height="180px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Pyro-Warrior-1884&theme=gotham&hide_border=false" height="180px"/>
+</div>
+
+<!-- Third block centered on the next line -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyro-Warrior-1884&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+
 </div>
 
 <div align="center">

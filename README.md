@@ -98,8 +98,10 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 
 <div align="center">
 
----
-[![](https://visitcount.itsvg.in/api?id=Pyro-Warrior-1884&icon=0&color=0)](https://visitcount.itsvg.in)
+![snake animation](https://raw.githubusercontent.com/YourUserName/YourUserName/output/github-contribution-grid-snake.svg)
+
 </div>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

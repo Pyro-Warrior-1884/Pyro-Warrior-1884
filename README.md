@@ -40,7 +40,7 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 # 📊 GitHub Stats:
 </div>
 
-<div align="left">
+<div align="center">
 
 <!-- First two blocks side by side -->
 <div style="display: flex; justify-content: center; gap: 10px;">

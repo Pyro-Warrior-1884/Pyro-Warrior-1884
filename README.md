@@ -1,3 +1,4 @@
+<div style="align:center">
 # 💫 About Me:
 Hi, I’m Albert Augustine.<br>A versatile Full Stack Developer with a strong command over multiple technologies and frameworks. <br>I am passionate about building innovative solutions to real-world problems and thrive on tackling challenging projects with a problem-solving mindset. <br>Beyond development, I am an enthusiastic explorer of Large Language Models (LLMs) and enjoy experimenting with AI to create intelligent applications. <br>My goal is to combine my technical skills and creativity to deliver practical, efficient, and impactful solutions.
 
@@ -22,3 +23,4 @@ Hi, I’m Albert Augustine.<br>A versatile Full Stack Developer with a strong co
 [![](https://visitcount.itsvg.in/api?id=Pyro-Warrior-1884&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>

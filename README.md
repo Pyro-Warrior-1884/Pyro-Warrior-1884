@@ -95,6 +95,7 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 <div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
+
 <br>
 
 ### 🔝 Top Contributed Repo
@@ -102,11 +103,9 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 <div align="center">
 ![](https://github-contributor-stats.vercel.app/api?username=Pyro-Warrior-1884&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 </div>
+
 <br>
+
 <div align="center">
 ![snake animation](https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/output/snake.svg)
 </div>
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -77,15 +77,15 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 ## 🚀 Deployed Projects
 
 <a href="https://frontend-cmy9dbzhg-albertnedumudy-5247s-projects.vercel.app">
-  <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/output/asset/NavCart.png" width="120" alt="NavCart" style="margin:10px;" />
-</a>
-
-<a href="https://aifinancerecomm-9o1uqcqmi-albertnedumudy-5247s-projects.vercel.app">
-  <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/output/asset/Cooler.png" width="120" alt="AI Finance Recommendation" style="margin:10px;" />
+  <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/output/asset/NavCart.png" width="120" alt="NavCart" />
 </a>
 
 <a href="https://github-frontend-p4jahh4jo-albertnedumudy-5247s-projects.vercel.app">
-  <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/output/asset/GithubTool.png" width="120" alt="Code Submission Tool" style="margin:10px;" />
+  <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/output/asset/GithubTool.png" width="120" alt="Code Submission Tool" />
+</a>
+
+<a href="https://aifinancerecomm-9o1uqcqmi-albertnedumudy-5247s-projects.vercel.app">
+  <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/output/asset/Cooler.png" width="120" alt="AI Finance Recommendation" />
 </a>
 
 <br>

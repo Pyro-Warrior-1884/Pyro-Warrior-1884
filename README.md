@@ -82,6 +82,13 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 
 </div>
 
+## 🚀 Deployed Projects
+
+[![NavCart](https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/output/asset/NavCart.png)](https://frontend-cmy9dbzhg-albertnedumudy-5247s-projects.vercel.app)
+[![Ai_Finance_Recomendation](https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/output/asset/Cooler.png)](https://aifinancerecomm-9o1uqcqmi-albertnedumudy-5247s-projects.vercel.app)
+[![Code_Submission_Tool](https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/output/asset/GithubTool.png)](https://github-frontend-p4jahh4jo-albertnedumudy-5247s-projects.vercel.app)
+
+
 <div align="center">
 
 ### ✍️ Random Dev Quote

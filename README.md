@@ -1,8 +1,4 @@
-<!-- Center only the main headings -->
-<div align="center">
-
 # 💫 About Me:
-</div>
 <div align="left">
 
 Hi, I’m Albert Augustine.<br>
@@ -11,21 +7,16 @@ I am passionate about building innovative solutions to real-world problems and t
 Beyond development, I am an enthusiastic explorer of Large Language Models (LLMs) and enjoy experimenting with AI to create intelligent applications. <br>
 My goal is to combine my technical skills and creativity to deliver practical, efficient, and impactful solutions.
 </div>
-
-<div align="center">
-
+<br>
 ## 🌐 Socials:
-</div>
 <div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/albertaugustine1884/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:albertnedumudy@gmail.com)
 </div>
-
-<div align="center">
+<br>
 
 # 💻 Tech Stack:
-</div>
 <div align="left">
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -61,27 +52,21 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
-
-<div align="center">
-
+<br>
 # 📊 GitHub Stats:
-</div>
-
 <div align="center">
 
-<!-- First two blocks side by side -->
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Pyro-Warrior-1884&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" height="180px"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Pyro-Warrior-1884&theme=gotham&hide_border=false" height="180px"/>
 </div>
 
-<!-- Third block centered on the next line -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyro-Warrior-1884&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 </div>
-
+<br>
 ## 🚀 Deployed Projects
 
 <a href="https://frontend-cmy9dbzhg-albertnedumudy-5247s-projects.vercel.app">
@@ -93,25 +78,19 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 <a href="https://aifinancerecomm-9o1uqcqmi-albertnedumudy-5247s-projects.vercel.app">
   <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/output/asset/Cooler.png" width="120" alt="AI Finance Recommendation" />
 </a>
-
-<div align="center">
-
+<br>
 ### ✍️ Random Dev Quote
-
+<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
-
-<div align="center">
-
+<br>
 ### 🔝 Top Contributed Repo
-
+<div align="center">
 ![](https://github-contributor-stats.vercel.app/api?username=Pyro-Warrior-1884&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 </div>
-
+<br>
 <div align="center">
-
 ![snake animation](https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/output/snake.svg)
-
 </div>
 
 

@@ -88,7 +88,7 @@ My goal is to combine my technical skills and creativity to deliver practical, e
   <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/output/asset/Cooler.png" width="120" alt="AI Finance Recommendation" />
 </a>
 
-<br>
+<br><br>
 
 ### ✍️ Random Dev Quote
 
@@ -98,7 +98,7 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 
 </div>
 
-<br>
+<br><br>
 
 ### 🔝 Top Contributed Repo
 
@@ -108,7 +108,7 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
   

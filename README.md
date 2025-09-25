@@ -1,4 +1,5 @@
 # 💫 About Me:
+
 <div align="left">
 
 Hi, I’m Albert Augustine.<br>
@@ -8,7 +9,9 @@ Beyond development, I am an enthusiastic explorer of Large Language Models (LLMs
 My goal is to combine my technical skills and creativity to deliver practical, efficient, and impactful solutions.
 </div>
 <br>
+
 ## 🌐 Socials:
+
 <div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/albertaugustine1884/)
@@ -17,6 +20,7 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 <br>
 
 # 💻 Tech Stack:
+
 <div align="left">
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -53,7 +57,9 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 
 </div>
 <br>
+
 # 📊 GitHub Stats:
+
 <div align="center">
 
 <div style="display: flex; justify-content: center; gap: 10px;">
@@ -67,6 +73,7 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 
 </div>
 <br>
+
 ## 🚀 Deployed Projects
 
 <a href="https://frontend-cmy9dbzhg-albertnedumudy-5247s-projects.vercel.app">
@@ -79,12 +86,16 @@ My goal is to combine my technical skills and creativity to deliver practical, e
   <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/output/asset/Cooler.png" width="120" alt="AI Finance Recommendation" />
 </a>
 <br>
+
 ### ✍️ Random Dev Quote
+
 <div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 <br>
+
 ### 🔝 Top Contributed Repo
+
 <div align="center">
 ![](https://github-contributor-stats.vercel.app/api?username=Pyro-Warrior-1884&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 </div>

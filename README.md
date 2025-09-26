@@ -19,130 +19,120 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 </div>
 <br>
 
-## 💻 Tech Stack  (with subtle animations)
+## 💻 Tech Stack (Animated)
 
-<div style="display: flex; align-items: flex-start; align: center">
+<div style="display: flex; justify-content: center;">
 <table align="center">
-  <tr>
-    <td align="center" width="96">
-        <!-- 🔵 React with animated SVG -->
-        <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="React Animated" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <!-- 🐍 Python animated GIF -->
-        <img src="https://raw.githubusercontent.com/saadeghi/files/main/dancing-python.gif" alt="Python Animated" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="65" height="65" />
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-        <!-- 🐳 Docker animated -->
-        <img src="https://raw.githubusercontent.com/saadeghi/files/main/docker-whale.gif" alt="Docker Animated" width="65" height="65" />
-      <br>Docker
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
-      <br>VSCode
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      <br>Vue
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-      <br>Sass
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-  </tr>
+
+<!-- ────────────── 1st Row ────────────── -->
+<tr>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/cpp.gif" width="48" height="48" alt="C++" /><br>C++
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/css.gif" width="48" height="48" alt="CSS3" /><br>CSS3
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/go.gif" width="48" height="48" alt="Go" /><br>Go
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/html.gif" width="48" height="48" alt="HTML5" /><br>HTML5
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/java.gif" width="48" height="48" alt="Java" /><br>Java
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/javascript.gif" width="48" height="48" alt="JavaScript" /><br>JavaScript
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/kotlin.gif" width="48" height="48" alt="Kotlin" /><br>Kotlin
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/python.gif" width="48" height="48" alt="Python" /><br>Python
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/typescript.gif" width="48" height="48" alt="TypeScript" /><br>TypeScript
+  </td>
+</tr>
+
+<!-- ────────────── 2nd Row ────────────── -->
+<tr>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/vercel.gif" width="48" height="48" alt="Vercel" /><br>Vercel
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/render.gif" width="48" height="48" alt="Render" /><br>Render
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/express.gif" width="48" height="48" alt="Express.js" /><br>Express.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/nextjs.gif" width="48" height="48" alt="Next.js" /><br>Next.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/nodejs.gif" width="48" height="48" alt="Node.js" /><br>Node.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/radixui.gif" width="48" height="48" alt="Radix UI" /><br>Radix UI
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/react.gif" width="48" height="48" alt="React" /><br>React
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/tailwind.gif" width="48" height="48" alt="Tailwind CSS" /><br>TailwindCSS
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/prisma.gif" width="48" height="48" alt="Prisma" /><br>Prisma
+  </td>
+</tr>
+
+<!-- ────────────── 3rd Row ────────────── -->
+<tr>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/appwrite.gif" width="48" height="48" alt="Appwrite" /><br>Appwrite
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/firebase.gif" width="48" height="48" alt="Firebase" /><br>Firebase
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/mongodb.gif" width="48" height="48" alt="MongoDB" /><br>MongoDB
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/mysql.gif" width="48" height="48" alt="MySQL" /><br>MySQL
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/redis.gif" width="48" height="48" alt="Redis" /><br>Redis
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/docker.gif" width="48" height="48" alt="Docker" /><br>Docker
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/git.gif" width="48" height="48" alt="Git" /><br>Git
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/github.gif" width="48" height="48" alt="GitHub" /><br>GitHub
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/githubactions.gif" width="48" height="48" alt="GitHub Actions" /><br>GitHub Actions
+  </td>
+</tr>
+
+<!-- ────────────── 4th Row ────────────── -->
+<tr>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/figma.gif" width="48" height="48" alt="Figma" /><br>Figma
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/canva.gif" width="48" height="48" alt="Canva" /><br>Canva
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/lightroom.gif" width="48" height="48" alt="Adobe Lightroom" /><br>Adobe Lightroom
+  </td>
+</tr>
+
 </table>
-<br><br>
 </div>
+<br><br>
 
 # 📊 GitHub Stats:
 

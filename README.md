@@ -22,45 +22,45 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/cpp.gif" width="48" height="48" alt="C++" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/css.gif" width="48" height="48" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/go.gif" width="48" height="48" alt="Go" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/html.gif" width="48" height="48" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/java.gif" width="48" height="48" alt="Java" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/javascript.gif" width="48" height="48" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/kotlin.gif" width="48" height="48" alt="Kotlin" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/python.gif" width="48" height="48" alt="Python" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/typescript.gif" width="48" height="48" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/vercel.gif" width="48" height="48" alt="Vercel" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/render.gif" width="48" height="48" alt="Render" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/express.gif" width="48" height="48" alt="Express.js" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/nextjs.gif" width="48" height="48" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/nodejs.gif" width="48" height="48" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/radixui.gif" width="48" height="48" alt="Radix UI" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/react.gif" width="48" height="48" alt="React" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/tailwind.gif" width="48" height="48" alt="TailwindCSS" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/prisma.gif" width="48" height="48" alt="Prisma" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=render" width="48" height="48" alt="Render" />
+  <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=radix" width="48" height="48" alt="Radix UI" />
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
+  <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/appwrite.gif" width="48" height="48" alt="Appwrite" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/firebase.gif" width="48" height="48" alt="Firebase" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/mongodb.gif" width="48" height="48" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/mysql.gif" width="48" height="48" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/redis.gif" width="48" height="48" alt="Redis" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/docker.gif" width="48" height="48" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/git.gif" width="48" height="48" alt="Git" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/github.gif" width="48" height="48" alt="GitHub" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/githubactions.gif" width="48" height="48" alt="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=appwrite" width="48" height="48" alt="Appwrite" />
+  <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/figma.gif" width="48" height="48" alt="Figma" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/canva.gif" width="48" height="48" alt="Canva" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/lightroom.gif" width="48" height="48" alt="Adobe Lightroom" />
+  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=canva" width="48" height="48" alt="Canva" />
+  <img src="https://skillicons.dev/icons?i=lightroom" width="48" height="48" alt="Adobe Lightroom" />
 </p>
 <br><br>
 

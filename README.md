@@ -19,7 +19,7 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 </div>
 <br>
 
-## 💻 Tech Stack (Animated)
+## 💻 Tech Stack
 
 <div style="display: flex; justify-content: center;">
 <table align="center">
@@ -76,7 +76,7 @@ My goal is to combine my technical skills and creativity to deliver practical, e
     <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/radixui.gif" width="48" height="48" alt="Radix UI" /><br>Radix UI
   </td>
   <td align="center" width="96">
-    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/react.gif" width="48" height="48" alt="React" /><br>React
+    <img src="https://lottie.host/da0089bd-9e7c-4965-b7cd-df5398b73cf5/8IPPd1r1LT.lottie" width="48" height="48" alt="React" /><br>React
   </td>
   <td align="center" width="96">
     <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/tailwind.gif" width="48" height="48" alt="Tailwind CSS" /><br>TailwindCSS

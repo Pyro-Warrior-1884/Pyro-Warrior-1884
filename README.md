@@ -76,7 +76,7 @@ My goal is to combine my technical skills and creativity to deliver practical, e
     <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/radixui.gif" width="48" height="48" alt="Radix UI" /><br>Radix UI
   </td>
   <td align="center" width="96">
-    <img src="https://lottie.host/da0089bd-9e7c-4965-b7cd-df5398b73cf5/8IPPd1r1LT.lottie" width="48" height="48" alt="React" /><br>React
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/react.gif" width="48" height="48" alt="React" /><br>React
   </td>
   <td align="center" width="96">
     <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/tailwind.gif" width="48" height="48" alt="Tailwind CSS" /><br>TailwindCSS
@@ -107,7 +107,7 @@ My goal is to combine my technical skills and creativity to deliver practical, e
     <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/docker.gif" width="48" height="48" alt="Docker" /><br>Docker
   </td>
   <td align="center" width="96">
-    <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" /><br>Git
+    <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/git.gif" width="48" height="48" alt="Git" /><br>Git
   </td>
   <td align="center" width="96">
     <img src="https://raw.githubusercontent.com/saadeghi/files/main/animated-icons/github.gif" width="48" height="48" alt="GitHub" /><br>GitHub

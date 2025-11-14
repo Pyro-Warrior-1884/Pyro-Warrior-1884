@@ -114,10 +114,3 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 
 </div>
 
-<br><br>
-
-<div align="center">
-  
-![snake animation](https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/output/snake.svg)
-
-</div>

@@ -73,16 +73,41 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 </p>
 <br><br>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <div align="center">
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Pyro-Warrior-1884&theme=gotham&hide_border=false" height="180px"/>
-</div>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pyro-Warrior-1884&theme=tokyonight">
+<!-- Streak Stats -->
+<img 
+src="https://nirzak-streak-stats.vercel.app/?user=Pyro-Warrior-1884&theme=tokyonight&hide_border=false&border_radius=20&background=0d1117" 
+height="180"/>
+
+<br><br>
+
+<!-- Contribution Graph -->
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pyro-Warrior-1884&theme=tokyonight" 
+width="90%"/>
+
+<br><br>
+
+<!-- Language Stats -->
+<p>
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pyro-Warrior-1884&theme=tokyonight" 
+width="45%"/>
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pyro-Warrior-1884&theme=tokyonight" 
+width="45%"/>
 </p>
+
+<br><br>
+
+<!-- Featured Repository -->
+<img 
+src="https://github-readme-stats.vercel.app/api/pin/?username=Pyro-Warrior-1884&repo=Code-Submission-Tool&theme=tokyonight&border_radius=20&show_owner=true&border_color=30A3DC&bg_color=0d1117" 
+width="60%"/>
 
 </div>
 <br>

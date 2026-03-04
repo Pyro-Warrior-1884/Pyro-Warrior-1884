@@ -1,3 +1,8 @@
+<h1 align="left">
+  Albert Augustine
+  <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/main/assets/yourgif.gif" width="40">
+</h1>
+
 # 💫 About Me:
 
 <div align="left">

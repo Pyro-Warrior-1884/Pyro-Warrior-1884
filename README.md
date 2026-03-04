@@ -105,7 +105,7 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pyro-Warrior-1884&repo=Code-Submission-Tool&theme=gotham&border_color=00F7FF">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Pyro-Warrior-1884&repo=Code-Submission-Tool&theme=gotham"/>
 </p>
 
 <br><br>

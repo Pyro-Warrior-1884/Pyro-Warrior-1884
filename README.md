@@ -133,9 +133,11 @@ width="90%"/>
 
 </div>
 
-### LeetCode Stats
+<h2 align="center">LeetCode Stats</h2>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Albert_Augustine?theme=dark&font=montserrat&radius=6&ext=contest)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Albert_Augustine?theme=dark&font=montserrat&radius=6" />
+</p>
 
 <br><br>
 

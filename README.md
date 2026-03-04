@@ -1,7 +1,11 @@
-<h1 align="left">
+<h1 align="center">
   𝙰𝚕𝚋𝚎𝚛𝚝 𝙰𝚞𝚐𝚞𝚜𝚝𝚒𝚗𝚎
-  <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/main/assets/fire.gif" width="40">
+  <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/main/assets/fire.gif" width="45">
 </h1>
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Explorer;Building+Real+World+Applications" />
+</div>
 
 # 💫 About Me:
 
@@ -74,12 +78,7 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 <div align="center">
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pyro-Warrior-1884&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" height="180px"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Pyro-Warrior-1884&theme=gotham&hide_border=false" height="180px"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyro-Warrior-1884&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 </div>
@@ -106,8 +105,7 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pyro-Warrior-1884&repo=Code-Submission-Tool&theme=gotham" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pyro-Warrior-1884&repo=NavCart&theme=gotham" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pyro-Warrior-1884&repo=Code-Submission-Tool&theme=gotham&border_color=00F7FF">
 </p>
 
 <br><br>

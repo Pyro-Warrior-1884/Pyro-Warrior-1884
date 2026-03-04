@@ -91,23 +91,23 @@ width="90%"/>
 
 <br><br>
 
-<!-- Language Stats -->
-<p>
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pyro-Warrior-1884&theme=tokyonight" 
-width="45%"/>
+<br>
 
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pyro-Warrior-1884&theme=tokyonight" 
-width="45%"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pyro-Warrior-1884&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pyro-Warrior-1884&theme=tokyonight" width="48%"/>
 </p>
+
+<br>
 
 <br><br>
 
-<!-- Featured Repository -->
-<img 
-src="https://github-readme-stats.vercel.app/api/pin/?username=Pyro-Warrior-1884&repo=Code-Submission-Tool&theme=tokyonight&border_radius=20&show_owner=true&border_color=30A3DC&bg_color=0d1117" 
-width="60%"/>
+<p align="center">
+<a href="https://github.com/Pyro-Warrior-1884/Assignment-Submission-Tool">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pyro-Warrior-1884&repo=Code-Submission-Tool&theme=tokyonight&border_radius=15"/>
+</a>
+
+</p>
 
 </div>
 <br>

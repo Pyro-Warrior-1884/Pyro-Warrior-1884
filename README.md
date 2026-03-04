@@ -139,13 +139,3 @@ width="90%"/>
   </a>
 </div>
 
-<br><br>
-
-### 🔝 Top Contributed Repo
-
-<div align="center">
-  
-![](https://github-contributor-stats.vercel.app/api?username=Pyro-Warrior-1884&limit=5&theme=gotham&combine_all_yearly_contributions=true)
-
-</div>
-

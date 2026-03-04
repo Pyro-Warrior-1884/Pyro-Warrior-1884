@@ -12,7 +12,7 @@
 </div>
 
 <h1 align="left">  
-  <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/main/assets/sparkle.gif" width="45">
+  <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/main/assets/sparkle.gif" width="40">
   About Me
 </h1>
 

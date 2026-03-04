@@ -11,21 +11,22 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Explorer;Building+Real+World+Applications" />
 </div>
 
-# 💫 About Me:
+## About Me
 
-<div align="left">
+Hi, I’m **Albert Augustine**, a Full Stack Developer focused on building reliable and scalable applications.
 
-Hi, I’m Albert Augustine.<br>
-A versatile Full Stack Developer with a strong command over multiple technologies and frameworks. <br>
-I am passionate about building innovative solutions to real-world problems and thrive on tackling challenging projects with a problem-solving mindset. <br>
-Beyond development, I am an enthusiastic explorer of Large Language Models (LLMs) and enjoy experimenting with AI to create intelligent applications. <br>
-My goal is to combine my technical skills and creativity to deliver practical, efficient, and impactful solutions.
-</div>
+**Areas of Interest**
+- Full Stack Web Development
+- Artificial Intelligence and Large Language Models
+- Backend Systems and Application Architecture
+
+**Focus**
+Designing and developing practical software solutions that address real-world challenges.
 <br>
 
 
 <details>
-<summary><h4 align="center">🌐 Socials</h4></summary>
+<summary><h3 align="center">🌐 Socials</h3></summary>
 
 <div align="left">
 
@@ -35,7 +36,7 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 </details>
 
 <details>
-<summary><h4 align="center">💻 Tech Stack</h4></summary>
+<summary><h3 align="center">💻 Tech Stack</h3></summary>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
@@ -81,18 +82,16 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 </details>
 
 <details>
-<summary><h4 align="center">📊 GitHub Stats</h4></summary>
+<summary><h3 align="center">📊 GitHub Stats</h3></summary>
 
 <div align="center">
 
-<!-- Streak Stats -->
 <img 
 src="https://nirzak-streak-stats.vercel.app/?user=Pyro-Warrior-1884&theme=tokyonight&hide_border=false&border_radius=20&background=0d1117" 
 height="180"/>
 
 <br><br>
 
-<!-- Contribution Graph -->
 <img 
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pyro-Warrior-1884&theme=tokyonight" 
 width="90%"/>
@@ -109,9 +108,8 @@ width="90%"/>
 </div>
 </details>
 
-
 <details>
-<summary><h4 align="center">🚀 Deployed Projects</h4></summary>
+<summary><h3 align="center">🚀 Deployed Projects</h3></summary>
 
 <a href="https://bmo-5i547da52-albertnedumudy-5247s-projects.vercel.app">
   <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/output/asset/bmo.png" width="120" alt="NavCart" />
@@ -130,9 +128,8 @@ width="90%"/>
 </a>
 </details>
 
-<!-- Random Dev Quote -->
 <details>
-<summary><h4 align="center">✍️ Random Dev Quote</h4></summary>
+<summary><h3 align="center">✍️ Random Dev Quote</h3></summary>
 
 <br>
 
@@ -144,11 +141,8 @@ width="90%"/>
 
 </details>
 
-<br>
-
-<!-- LeetCode Stats -->
 <details>
-<summary><h4 align="center">🧠 LeetCode Stats</h4></summary>
+<summary><h3 align="center">🧠 LeetCode Stats</h3></summary>
 
 <br>
 
@@ -158,11 +152,8 @@ width="90%"/>
 
 </details>
 
-<br>
-
-<!-- GitCity Profile -->
 <details>
-<summary><h4 align="center">🏙️ Visit My GitCity Profile</h4></summary>
+<summary><h3 align="center">🏙️ Visit My GitCity Profile</h3></summary>
 
 <br>
 

@@ -3,6 +3,10 @@
   <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/main/assets/fire.gif" width="45">
 </h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pyro-Warrior-1884&label=Profile%20views&color=orange&style=flat" />
+</p>
+
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Explorer;Building+Real+World+Applications" />
 </div>
@@ -128,6 +132,10 @@ width="90%"/>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
+
+### LeetCode Stats
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Albert_Augustine?theme=dark&font=montserrat&radius=6&ext=contest)
 
 <br><br>
 

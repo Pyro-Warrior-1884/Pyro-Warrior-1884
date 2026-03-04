@@ -23,14 +23,16 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 </div>
 <br>
 
-## 🌐 Socials:
+
+<details>
+<summary><b>🌐 Socials</b></summary>
 
 <div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/albertaugustine1884/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:albertnedumudy@gmail.com)
 </div>
-<br>
+</details>
 
 <details>
 <summary><b>💻 Tech Stack</b></summary>
@@ -77,7 +79,6 @@ My goal is to combine my technical skills and creativity to deliver practical, e
   <img src="https://skillicons.dev/icons?i=lightroom" width="48" height="48" alt="Adobe Lightroom" />
 </p>
 </details>
-<br><br>
 
 <details>
 <summary><b>📊 GitHub Stats</b></summary>
@@ -107,9 +108,10 @@ width="90%"/>
 
 </div>
 </details>
-<br>
 
-## 🚀 Deployed Projects
+
+<details>
+<summary><b>🚀 Deployed Projects</b></summary>
 
 <a href="https://bmo-5i547da52-albertnedumudy-5247s-projects.vercel.app">
   <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/output/asset/bmo.png" width="120" alt="NavCart" />
@@ -126,30 +128,49 @@ width="90%"/>
 <a href="https://aifinancerecomm-9o1uqcqmi-albertnedumudy-5247s-projects.vercel.app">
   <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/output/asset/Cooler.png" width="120" alt="AI Finance Recommendation" />
 </a>
+</details>
 
-<br><br>
+<!-- Random Dev Quote -->
+<details>
+<summary><h2 align="center">✍️ Random Dev Quote</h2></summary>
 
-### ✍️ Random Dev Quote
+<br>
 
 <div align="center">
-  
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
-<h2 align="center">LeetCode Stats</h2>
+</details>
+
+<br>
+
+<!-- LeetCode Stats -->
+<details>
+<summary><h2 align="center">🧠 LeetCode Stats</h2></summary>
+
+<br>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Albert_Augustine?theme=dark&font=montserrat&radius=6" />
 </p>
 
-<br><br>
+</details>
 
-### 🏙️ Visit My GitCity Profile
+<br>
+
+<!-- GitCity Profile -->
+<details>
+<summary><h2 align="center">🏙️ Visit My GitCity Profile</h2></summary>
+
+<br>
 
 <div align="center">
   <a href="https://www.thegitcity.com/dev/pyro-warrior-1884">
     <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/main/assets/city.png" width="800" alt="GitCity Profile"/>
   </a>
 </div>
+
+</details>
 

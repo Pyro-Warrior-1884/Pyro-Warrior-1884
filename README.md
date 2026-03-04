@@ -1,5 +1,5 @@
 <h1 align="left">
-  Albert Augustine
+  𝙰𝚕𝚋𝚎𝚛𝚝 𝙰𝚞𝚐𝚞𝚜𝚝𝚒𝚗𝚎
   <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/main/assets/fire.gif" width="40">
 </h1>
 
@@ -102,6 +102,13 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 <a href="https://aifinancerecomm-9o1uqcqmi-albertnedumudy-5247s-projects.vercel.app">
   <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/output/asset/Cooler.png" width="120" alt="AI Finance Recommendation" />
 </a>
+
+<br><br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pyro-Warrior-1884&repo=Code-Submission-Tool&theme=gotham" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pyro-Warrior-1884&repo=NavCart&theme=gotham" />
+</p>
 
 <br><br>
 

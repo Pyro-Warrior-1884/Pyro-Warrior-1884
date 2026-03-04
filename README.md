@@ -11,7 +11,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Explorer;Building+Real+World+Applications" />
 </div>
 
-## About Me
+<h1 align="center">  
+  <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/main/assets/sparkle.gif" width="45">
+  About Me
+</h1>
 
 Hi, I’m **Albert Augustine**, a Full Stack Developer focused on building reliable and scalable applications.
 

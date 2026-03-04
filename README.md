@@ -98,16 +98,6 @@ width="90%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pyro-Warrior-1884&theme=tokyonight" width="48%"/>
 </p>
 
-<br>
-
-<br><br>
-
-<p align="center">
-  <img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Pyro-Warrior-1884&repo=Code-Submission-Tool&theme=tokyonight&border_radius=20&show_owner=true&border_color=30A3DC&bg_color=0d1117" 
-  width="60%"/>
-</p>>
-
 </div>
 <br>
 

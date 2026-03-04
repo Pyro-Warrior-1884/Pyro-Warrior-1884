@@ -32,7 +32,8 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 </div>
 <br>
 
-## 💻 Tech Stack
+<details>
+<summary><b>💻 Tech Stack</b></summary>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
@@ -75,9 +76,11 @@ My goal is to combine my technical skills and creativity to deliver practical, e
   <img src="https://skillicons.dev/icons?i=canva" width="48" height="48" alt="Canva" />
   <img src="https://skillicons.dev/icons?i=lightroom" width="48" height="48" alt="Adobe Lightroom" />
 </p>
+</details>
 <br><br>
 
-# 📊 GitHub Stats
+<details>
+<summary><b>📊 GitHub Stats</b></summary>
 
 <div align="center">
 
@@ -103,6 +106,7 @@ width="90%"/>
 </p>
 
 </div>
+</details>
 <br>
 
 ## 🚀 Deployed Projects

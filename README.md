@@ -103,11 +103,10 @@ width="90%"/>
 <br><br>
 
 <p align="center">
-<a href="https://github.com/Pyro-Warrior-1884/Assignment-Submission-Tool">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pyro-Warrior-1884&repo=Code-Submission-Tool&theme=tokyonight&border_radius=15"/>
-</a>
-
-</p>
+  <img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Pyro-Warrior-1884&repo=Code-Submission-Tool&theme=tokyonight&border_radius=20&show_owner=true&border_color=30A3DC&bg_color=0d1117" 
+  width="60%"/>
+</p>>
 
 </div>
 <br>

@@ -80,6 +80,9 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Pyro-Warrior-1884&theme=gotham&hide_border=false" height="180px"/>
 </div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pyro-Warrior-1884&theme=tokyonight">
+</p>
 
 </div>
 <br>
@@ -101,12 +104,6 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 <a href="https://aifinancerecomm-9o1uqcqmi-albertnedumudy-5247s-projects.vercel.app">
   <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/output/asset/Cooler.png" width="120" alt="AI Finance Recommendation" />
 </a>
-
-<br><br>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pyro-Warrior-1884&theme=tokyonight">
-</p>
 
 <br><br>
 

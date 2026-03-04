@@ -25,7 +25,7 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 
 
 <details>
-<summary><b>🌐 Socials</b></summary>
+<summary><h4 align="center">🌐 Socials</h4></summary>
 
 <div align="left">
 
@@ -35,7 +35,7 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 </details>
 
 <details>
-<summary><b>💻 Tech Stack</b></summary>
+<summary><h4 align="center">💻 Tech Stack</h4></summary>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
@@ -81,7 +81,7 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 </details>
 
 <details>
-<summary><b>📊 GitHub Stats</b></summary>
+<summary><h4 align="center">📊 GitHub Stats</h4></summary>
 
 <div align="center">
 
@@ -111,7 +111,7 @@ width="90%"/>
 
 
 <details>
-<summary><b>🚀 Deployed Projects</b></summary>
+<summary><h4 align="center">🚀 Deployed Projects</h4></summary>
 
 <a href="https://bmo-5i547da52-albertnedumudy-5247s-projects.vercel.app">
   <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/output/asset/bmo.png" width="120" alt="NavCart" />
@@ -132,7 +132,7 @@ width="90%"/>
 
 <!-- Random Dev Quote -->
 <details>
-<summary><h2 align="center">✍️ Random Dev Quote</h2></summary>
+<summary><h4 align="center">✍️ Random Dev Quote</h4></summary>
 
 <br>
 
@@ -148,7 +148,7 @@ width="90%"/>
 
 <!-- LeetCode Stats -->
 <details>
-<summary><h2 align="center">🧠 LeetCode Stats</h2></summary>
+<summary><h4 align="center">🧠 LeetCode Stats</h4></summary>
 
 <br>
 
@@ -162,7 +162,7 @@ width="90%"/>
 
 <!-- GitCity Profile -->
 <details>
-<summary><h2 align="center">🏙️ Visit My GitCity Profile</h2></summary>
+<summary><h4 align="center">🏙️ Visit My GitCity Profile</h4></summary>
 
 <br>
 

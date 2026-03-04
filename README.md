@@ -114,7 +114,7 @@ My goal is to combine my technical skills and creativity to deliver practical, e
 
 <div align="center">
   <a href="https://www.thegitcity.com/dev/pyro-warrior-1884">
-    <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/main/assets/city.png" width="300" alt="GitCity Profile"/>
+    <img src="https://raw.githubusercontent.com/Pyro-Warrior-1884/Pyro-Warrior-1884/main/assets/city.png" width="800" alt="GitCity Profile"/>
   </a>
 </div>
 

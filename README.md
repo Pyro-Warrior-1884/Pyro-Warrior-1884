@@ -87,6 +87,10 @@ Designing and developing practical software solutions that address real-world ch
 <details>
 <summary><h3 align="center">📊 GitHub Stats</h3></summary>
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pyro-Warrior-1884&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=20&border_color=30A3DC&bg_color=0d1117" width="55%"/>
+</p>
+
 <div align="center">
 
 <img 
